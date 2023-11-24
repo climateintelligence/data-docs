@@ -1,4 +1,4 @@
-# clint-shared-data
+# CLINT Data Documentation
 
 CLINT Repository for documentation of a shared data pool.
 
