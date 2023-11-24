@@ -1,10 +1,6 @@
 # clint-shared-data
 
-CLINT Demo Repository for documentation of a shared data pool.
-
-This repo should go to the clint project:
-
-https://github.com/climateintelligence 
+CLINT Repository for documentation of a shared data pool.
 
 The shared data pool is available at DKRZ:
 
